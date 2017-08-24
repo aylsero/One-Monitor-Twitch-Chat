@@ -1,0 +1,15 @@
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\bin\Debug\One Monitor Twitch Chat.exe.config
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\bin\Debug\One Monitor Twitch Chat.exe
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\bin\Debug\One Monitor Twitch Chat.pdb
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\bin\Debug\One Monitor Twitch Chat.xml
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One_Monitor_Twitch_Chat.Resources.resources
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One Monitor Twitch Chat.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One Monitor Twitch Chat.exe
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One Monitor Twitch Chat.xml
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One Monitor Twitch Chat.pdb
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One Monitor Twitch Chat.vbprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One_Monitor_Twitch_Chat.Twitch_Chat.resources
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One_Monitor_Twitch_Chat.Input_Username.resources
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One_Monitor_Twitch_Chat.Settings.resources
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One_Monitor_Twitch_Chat.Updater.resources
+d:\documents\visual studio 2017\Projects\Input Username\One Monitor Twitch Chat\obj\Debug\One_Monitor_Twitch_Chat.Change_Chat.resources
